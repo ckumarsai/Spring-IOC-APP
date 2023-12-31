@@ -19,4 +19,9 @@ public class Deiselengine implements IEngine {
 		return true;
 	}
 
+	//task -101
+	public void  m1(){
+		// logic
+	}
+
 }
